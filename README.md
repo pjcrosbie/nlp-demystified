@@ -1,5 +1,13 @@
 # Natural Language Processing Demystified
 
+> PJC 20240721
+> ============
+> this is my training fork of the original repo
+> it had been stable about 10 months when this snapshot
+> was taken
+>
+> IMHO, excellent well explained course
+
 NLP Demystified is a free, comprehensive course to turn you into an NLP expert. It covers everything from the very basics to the state-of-the-art.
 
 - 15 modules of theory and concepts, clearly explained.
